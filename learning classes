@@ -1,0 +1,16 @@
+p-padding
+m- margin
+
+
+t- for classes that set margin-top OR padding-top
+b- for classes that set margin-bottom OR padding-bottom
+l- for classes that set margin-left OR padding left
+r-for classes that set margin-right OR padding right
+x-for classes that set both left and right
+y- for classes that set both top and bottom
+
+navbar-expand- 100% wide until medium breakpoint
+bg-primary- color blue
+navbar-brand- div  for logo
+justify- content-end - use justify -content utilities or flexbox containers to change the alignment of flex items on the main axis
+d-flex- enable flex behaviours
