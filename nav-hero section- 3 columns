@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Version</title>
+    <!-- Styles
+        --------------->
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+        <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        
+        <!-- Scripts 
+        -------------->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+</head>
+<body style="background:#f4f4f4f4;">
+    <header>
+        <nav class="navbar navbar-collapse navbar-expand-md navbar-light bg-primary px-4">
+            <!--left side navbar-->
+            <a href="#" class="navbar-brand">
+                <img src="" with="200" alt="LOGO">
+            </a>
+            <!--right side navbar-->
+<div class="collapse navbar-collapse justify-content-end id="navbarCollapse">
+    <div class="navbar-nav">
+        <a href="#" class="nav-item nav-link active  text-white">Home</a>
+        <a href="#" class="nav-item nav-link active text-wtite">Contact Us</a>
+        <a href="#"  class="nav-item nav-link active text-white">Messages</a>
+        <a href="#" class="nav-item nav-link active text-white">References</a>
+    </div>
+        </nav>
+    </header>
+
+
+    <!--hero section-->
+    
+    
+</body>
+</html>
