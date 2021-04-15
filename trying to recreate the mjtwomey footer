@@ -1,0 +1,27 @@
+ <footer class="mt-4 border-top footer-is-dark" style="background: #444342;">
+        <div class="container">
+            <div class="row text-secondary">
+                <!--left side-->
+                <div class="footer-left">
+                    <p class="copyright">&copy; Copyright 2021</p>
+                </div>
+            </div>
+
+            <!--middle-->
+            <div class="footer-right ">
+                <div class="footer-menu">
+                    <ul id="menu-footer-menu" class="menu">
+                        <li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812">
+                            <a href="https://mjtwomey.com/contact/">Contact</a></li>
+                    <li id="menu-item-1722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1722"><a href="https://mjtwomey.com/privacy-policy">Privacy Policy</a></li>
+                    </ul></div>					
+                                                                
+                                            <div class="cats-love">
+                                                
+                                                <a href="https://authorcats.com" target="_blank" class="authorcats-love">Made with Author Cats</a>
+                                            
+                                            </div>
+            </div>
+        </div>
+
+    </footer>
