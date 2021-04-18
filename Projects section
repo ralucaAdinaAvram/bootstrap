@@ -1,0 +1,29 @@
+
+            <!-- Projects section -->
+            <section class="py-5">
+                <div class="container">
+                    <h3 class="font-weight-bold text-center mb-5"> Projects </h3>
+
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="shadow-lg">
+                                <img src="assets/images/img1.jpg" class="w-100" alt="project 1" />
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="shadow-lg">
+                                <img src="assets/images/img2.jpg" class="w-100" alt="project 2" />
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-4">
+                            <div class="shadow-lg">
+                                <img src="assets/images/img3.jpg" class="w-100" alt="project 3" />
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
